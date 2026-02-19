@@ -30,3 +30,4 @@ window.addEventListener("scroll",()=>{
     bar.style.width = bar.getAttribute("style").split(":")[1];
   });
 });
+
